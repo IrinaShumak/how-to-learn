@@ -232,7 +232,7 @@
   line-height: 1.15;
   width: 648px;
   font-size: 120px;
-  text-align: center; 
+  text-align: center;
   margin: 100px 0 70px 0;
   z-index: 2;
 } 
@@ -242,7 +242,7 @@
   font-weight: normal;
   line-height: 51px;
   font-size: 36px;
-  text-align: center; 
+  text-align: center;
   margin: 0;
   z-index: 2;
 }
@@ -350,7 +350,7 @@
   color: white;
   font-weight: normal;
   line-height: 25px;
-  font-size: 18px; 
+  font-size: 18px;
   margin: 18px 0;  
 }
 
@@ -368,7 +368,7 @@
   color: white;
   font-weight: bold;
   line-height: 30px;
-  font-size: 18px; 
+  font-size: 18px;
   margin: 0 0 20px 0;
 }
 
