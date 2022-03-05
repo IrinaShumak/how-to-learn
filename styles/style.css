@@ -5,7 +5,7 @@
   max-width: 1600px;
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
-  /* выше для экранов больше 1600px отцентрировали весь контент */
+  /* выше для экранов больше 1600px отцентрировали весь контент */  
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -317,20 +317,21 @@
   margin: 0;
   box-sizing: border-box;
   padding: 60px 0 40px 0;
-  background-color: #1f1f1f;
-  position: relative;
+  background-color: #1f1f1f;  
 }
 
 .footer__columns {
   width: 90%;
+  min-height: 250px;  
   margin: 0 auto;
+  padding: 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between;  
 }
 
 .footer__column {
   margin: 0;
-  padding: 0;
+  padding: 0;  
 }
 
 .footer__column_content_copyright {
@@ -355,10 +356,7 @@
   font-weight: normal;
   line-height: 25px;
   font-size: 18px;
-  margin: 0;
-  position: absolute;
-  bottom: 48px;
-  left: 5%;
+  margin: 18px 0;  
 }
 
 .footer__column-heading {
