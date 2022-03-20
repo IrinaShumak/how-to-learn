@@ -214,8 +214,7 @@
   padding: 100px 0 0;
   margin: 0;
   flex-direction: column;
-  align-items: center;
-  border: red 1px solid;
+  align-items: center;  
 }
 
 .feynman__title {
